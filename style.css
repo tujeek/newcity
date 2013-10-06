@@ -1,0 +1,81 @@
+body{cursor:default;font-size:14px;line-height:21px;font-family:"Segoe UI","Helvetica",Garuda,Arial,sans-serif;margin:0;padding:0;color:#666;text-rendering:optimizeLegibility;background:#eee}
+#page{width:960px;margin:0 auto 0}
+header{height:31px;background-color:#3c454f;display:block}
+#site-logo{display:block;float:left}
+a,a:link,a:visited{text-decoration:none;color:#00a8d9}
+
+#site-login{margin:0;padding:0;float:right;text-align:right;font-size:11px;font-weight:bold;text-transform:uppercase;line-height:15px}
+#site-login li{float:left;list-style-type:none;margin-left:2px}
+.geo-phone,#site-login .sign-in,.search-box{background:#5f676f;background:-moz-linear-gradient(top,#5f676f 0%,#424a54 100%);background:-webkit-gradient(linear,left top,left bottom,color-stop(0%,#5f676f),color-stop(100%,#424a54));background:-webkit-linear-gradient(top,#5f676f 0%,#424a54 100%);background:-ms-linear-gradient(top,#5f676f 0%,#424a54 100%);background:linear-gradient(top,#5f676f 0%,#424a54 100%);}
+
+#site-login .sign-in{display:block}
+#main-container{background:#fff;color:#666;padding:0 40px 15px}
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section{display:block}
+#topNavigation{font-size:11px;overflow:hidden;width:100%}
+
+nav a,nav a:link,nav a:visited{color:#888}
+nav{padding:9px 0;margin-left:-20px;max-width:790px}
+nav li{float:left;list-style:none;white-space:nowrap}
+nav ul{padding:0;margin:0}
+nav li a{font-weight:bold;text-transform:uppercase;margin:0 24px 0 0;display:block;font-size:12px}
+
+footer{color:#999;text-align:center;line-height:normal;margin:-1px 0 0 0;padding-top:0;font-size:10px;clear:both}
+
+footer p{margin-bottom:0}
+.clearfix:after{content:".";display:block;height:0;clear:both;visibility:hidden}
+.clearfix:before,.clearfix:after{content:"";display:table}
+.clearfix:after{clear:both}
+.clearfix{zoom:1}
+
+#site-login .sign-in a{display:inline-block;padding:8px 20px;color:#fff}
+footer{margin-left:-40px;margin-right:-40px}
+.footer-sitemap{overflow:hidden;padding:20px 98px 20px;border-top:1px solid #ddd;border-bottom:1px solid #ddd}
+.footer-bottom{overflow:hidden;margin-top:20px;padding:0 98px;float:right}
+.footer-sitemap ul{float:left;padding:0;margin:0 10px 0 0;width:100px}
+.footer-sitemap ul:last-child{margin-right:0}
+
+footer li{text-align:left;list-style-type:none;line-height:21px}
+.footer-sitemap li{line-height:16px;margin-bottom:6px}
+.footer-sitemap a{color:#888}
+.footer-bottom a{color:#4a91ac}
+
+#page footer a:hover{color:#00adee}
+.footer-sitemap ul li:first-child{margin-bottom:5px}
+.footer-bottom .footer-copyright{float:right;font-size:12px}
+.languages-selector{float:left;display:block;margin:24px 0 0 98px}
+.current-locale{cursor:pointer}
+.home-infobox{padding:20px 23px;font-size:20px;line-height:27px;text-align:center}
+
+nav{padding:9px 0;margin-left:-20px;max-width:790px}
+a.site-boxcta{background-image:none;text-align:center;padding-left:0}
+.home-infobox{padding:20px 23px;font-size:20px;line-height:27px;text-align:center}
+section{clear:both;padding:15px 0 0 0;min-height:300px}
+
+#content-container .site-subtitle{padding:14px 0 15px 0;font-size:20px;font-weight:100;margin-bottom:10px}
+.site-subtitle.title-green{border-bottom:2px #8dbb40 solid}
+.site-subtitle.title-red{border-bottom:2px #f4876e solid}
+.site-subtitle.title-purple{border-bottom:2px #978bc2 solid}
+.site-subtitle.title-gold{border-bottom:2px #d7c76f solid}
+.site-subtitle.title-blue{border-bottom:2px #61a8dc solid}
+.icon,.page-downloads .hero span,.site-videolink,.lang-arrow,.video-1{text-indent:-999em}
+.languages-selector{float:left;display:block;margin:24px 0 0 98px}
+.free-trial-au-disclaimer{display:none;clear:both;float:right;width:145px;font-size:11px;margin-right:-40px}
+.page- #nav-overview{color:#0ca2da}
+.page- .buy-wrapper{width:285px;float:right;margin-top:-76px}
+.page- a.site-arrowboxcta{padding:13px 0 14px 73px;font-weight:400;font-size:24px;background-position:72% center;margin-bottom:50px}
+.page- a.site-arrowboxcta:hover{background-color:#7fba00}
+.page- section{padding-top:0}
+
+#page .footer-sitemap ul li:first-child a,.footer-title a{font-weight:bold;text-transform:uppercase;color:#444}
+.footer-bottom ul{padding:0;margin:0}
+.footer-bottom li{float:right;margin-left:20px}
+.footer-bottom .footer-copyright{float:right;font-size:12px}
+
+.spoilertop {cursor:pointer;text-decoration:none;color:#00a8d9}
+
+.preElement { white-space:pre;     white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	width: 100px}
